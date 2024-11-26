@@ -23,7 +23,7 @@ const Register = () => {
 
   return (
     <div className="p-4 max-w-md mx-auto">
-      <h1 className="text-2xl font-bold">Register</h1>
+      <h1 className="text-2xl font-bold">Create New Account</h1>
       <form onSubmit={handleSubmit} className="space-y-4">
         <input
           type="text"
